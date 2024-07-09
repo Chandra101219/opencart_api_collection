@@ -1,0 +1,90 @@
+{
+  "Registration": [
+    {
+      "id": "554e",
+      "full_name": "Chandra",
+      "email": "user_493@example.com",
+      "password": "6oht093g",
+      "mobile": "9999999999",
+      "creationdate": "2024-07-01T14:18:51"
+    },
+    {
+      "id": "36fe",
+      "full_name": "Arnav",
+      "email": "user_995@example.com",
+      "password": "uwqqjk6p",
+      "mobile": "9999999991",
+      "creationdate": "2024-07-01T14:28:25"
+    },
+    {
+      "id": "59b8",
+      "full_name": "Krishna",
+      "email": "user_231@example.com",
+      "password": "38b9c84fbb08b55345c8abace29dfe5462e70ea13456d7da719d1a04b0dcb9de",
+      "mobile": "9999999901",
+      "creationdate": "2024-07-01T14:29:08"
+    },
+    {
+      "id": "2493",
+      "full_name": "Hari",
+      "email": "user_190@mymail.com",
+      "password": "kwluwsnv",
+      "mobile": "9999999902",
+      "creationdate": "2024-07-01T14:44:28"
+    },
+    {
+      "id": "6ab1",
+      "full_name": "example",
+      "email": "user_536@mymail.com",
+      "password": "b61ifoid",
+      "mobile": "9999991902",
+      "creationdate": "2024-07-01T15:15:15"
+    },
+    {
+      "id": "354b",
+      "full_name": "Sekhar",
+      "email": "user_456@mymail.com",
+      "password": "0c21dd1bf4ec91ee735337dc5fe8722cc4422c31fb242a84d742d41fff114747",
+      "mobile": "9999991702",
+      "creationdate": "2024-07-01T15:33:13"
+    },
+    {
+      "id": "6f71",
+      "full_name": "example2",
+      "email": "user_411@mymail.com",
+      "password": "07cbb7f6fa7745afcc2ec12c19bbb67c2af5eb9e4c6530b61fbf5d718055db12",
+      "mobile": "9999991802",
+      "creationdate": "2024-07-01T15:34:29"
+    },
+    {
+      "id": "9ad4",
+      "full_name": "kaira",
+      "email": "user_28@mymail.com",
+      "password": "33f78b35bcc705e233062217b263d0b0ba87c1d5153d477d4559d9a5b9a44cb0",
+      "mobile": "9999911802",
+      "creationdate": "2024-07-01T15:41:51"
+    },
+    {
+      "id": "62a5",
+      "full_name": "jon snow",
+      "email": "user_8@mymail.com",
+      "password": "55456428dfe272050940f8fbeb2231dd936771d25cb008940a7c1bc4987675e6",
+      "mobile": "999911802",
+      "creationdate": "2024-07-01T15:47:26"
+    },
+    {
+      "id": "7498",
+      "full_name": "arya stark",
+      "email": "user_775@mymail.com",
+      "password": "9c47c748110d84f3b7ea3770be7129cafdad04bfd864bc1346b7c1fb416ba45e",
+      "mobile": "999911802",
+      "creationdate": "2024-07-02T13:28:33"
+    },
+    {
+      "id": "c63c",
+      "full_name": "Tanjiro",
+      "email": "user_210@mymail.com",
+      "password": "da392e882d1f1730518c5008c981dc733337350a03a0be88ff9c5ff02dc86a69"
+    }
+  ]
+}

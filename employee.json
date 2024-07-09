@@ -1,0 +1,99 @@
+{
+  "employees": [
+    {
+      "emp_id": "123456",
+      "emp_name": "Chandra",
+      "Designation": "QA Engg",
+      "Company": "Steadfast Technologies",
+      "Skills": [
+        "Manual testing",
+        "Selenium Java",
+        "API Testing",
+        "SQL server"
+      ],
+      "id": "997e"
+    },
+    {
+      "emp_id": "123457",
+      "emp_name": "Pradeep",
+      "Designation": "QA Engg",
+      "Company": "Steadfast Technologies",
+      "Skills": [
+        "Manual testing",
+        "Selenium Java",
+        "API Testing",
+        "SQL server"
+      ],
+      "id": "b340"
+    },
+    {
+      "emp_id": "123458",
+      "emp_name": "Sivaram",
+      "Designation": "QA Engg",
+      "Company": "Steadfast Technologies",
+      "Skills": [
+        "Manual testing",
+        "Selenium Java",
+        "API Testing",
+        "SQL server"
+      ],
+      "id": "4e2c"
+    },
+    {
+      "id": "e6e3",
+      "emp_id": "123459",
+      "emp_name": "Arnav",
+      "Designation": "QA Engg",
+      "Company": "Steadfast Technologies",
+      "Skills": [
+        "Manual testing",
+        "Selenium Java",
+        "API Testing",
+        "SQL server",
+        "GIT"
+      ]
+    },
+    {
+      "id": "8e74",
+      "emp_id": "123460",
+      "emp_name": "Hari",
+      "Designation": "QA Engg",
+      "Company": "Steadfast Technologies",
+      "Skills": [
+        "Manual testing",
+        "API Testing",
+        "SQL server",
+        "GIT"
+      ],
+      "Created_on": "2024-07-01T13:21:54"
+    },
+    {
+      "id": "89a8",
+      "emp_id": "123460",
+      "emp_name": "Hari",
+      "Designation": "QA Engg",
+      "Company": "Steadfast Technologies",
+      "Skills": [
+        "Manual testing",
+        "API Testing",
+        "SQL server",
+        "GIT"
+      ],
+      "Created_on": "2024-07-01T13:28:36"
+    },
+    {
+      "id": "ea6a",
+      "emp_id": "123461",
+      "emp_name": "Charan",
+      "Designation": "QA Engg",
+      "Company": "Steadfast Technologies",
+      "Skills": [
+        "Manual testing",
+        "API Testing",
+        "SQL server",
+        "GIT"
+      ],
+      "Created_on": "2024-07-01T13:38:18"
+    }
+  ]
+}
